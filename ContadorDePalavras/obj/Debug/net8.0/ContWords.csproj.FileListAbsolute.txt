@@ -1,0 +1,14 @@
+C:\Programas\C#\ContWords\bin\Debug\net8.0\ContWords.exe
+C:\Programas\C#\ContWords\bin\Debug\net8.0\ContWords.deps.json
+C:\Programas\C#\ContWords\bin\Debug\net8.0\ContWords.runtimeconfig.json
+C:\Programas\C#\ContWords\bin\Debug\net8.0\ContWords.dll
+C:\Programas\C#\ContWords\bin\Debug\net8.0\ContWords.pdb
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.AssemblyInfoInputs.cache
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.AssemblyInfo.cs
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.csproj.CoreCompileInputs.cache
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.dll
+C:\Programas\C#\ContWords\obj\Debug\net8.0\refint\ContWords.dll
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.pdb
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ContWords.genruntimeconfig.cache
+C:\Programas\C#\ContWords\obj\Debug\net8.0\ref\ContWords.dll

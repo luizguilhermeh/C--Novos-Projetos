@@ -1,0 +1,14 @@
+C:\Programas\C#\InvertString\bin\Debug\net8.0\InvertString.exe
+C:\Programas\C#\InvertString\bin\Debug\net8.0\InvertString.deps.json
+C:\Programas\C#\InvertString\bin\Debug\net8.0\InvertString.runtimeconfig.json
+C:\Programas\C#\InvertString\bin\Debug\net8.0\InvertString.dll
+C:\Programas\C#\InvertString\bin\Debug\net8.0\InvertString.pdb
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.AssemblyInfoInputs.cache
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.AssemblyInfo.cs
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.csproj.CoreCompileInputs.cache
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.dll
+C:\Programas\C#\InvertString\obj\Debug\net8.0\refint\InvertString.dll
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.pdb
+C:\Programas\C#\InvertString\obj\Debug\net8.0\InvertString.genruntimeconfig.cache
+C:\Programas\C#\InvertString\obj\Debug\net8.0\ref\InvertString.dll

@@ -1,0 +1,14 @@
+C:\Programas\C#\VerifyPalindromo\bin\Debug\net8.0\VerifyPalindromo.exe
+C:\Programas\C#\VerifyPalindromo\bin\Debug\net8.0\VerifyPalindromo.deps.json
+C:\Programas\C#\VerifyPalindromo\bin\Debug\net8.0\VerifyPalindromo.runtimeconfig.json
+C:\Programas\C#\VerifyPalindromo\bin\Debug\net8.0\VerifyPalindromo.dll
+C:\Programas\C#\VerifyPalindromo\bin\Debug\net8.0\VerifyPalindromo.pdb
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.AssemblyInfoInputs.cache
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.AssemblyInfo.cs
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.csproj.CoreCompileInputs.cache
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.dll
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\refint\VerifyPalindromo.dll
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.pdb
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\VerifyPalindromo.genruntimeconfig.cache
+C:\Programas\C#\VerifyPalindromo\obj\Debug\net8.0\ref\VerifyPalindromo.dll

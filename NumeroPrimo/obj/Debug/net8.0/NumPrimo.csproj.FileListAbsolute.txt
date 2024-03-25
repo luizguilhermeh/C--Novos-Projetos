@@ -1,0 +1,14 @@
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.AssemblyInfoInputs.cache
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.AssemblyInfo.cs
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.csproj.CoreCompileInputs.cache
+C:\Programas\C#\NumPrimo\bin\Debug\net8.0\NumPrimo.exe
+C:\Programas\C#\NumPrimo\bin\Debug\net8.0\NumPrimo.deps.json
+C:\Programas\C#\NumPrimo\bin\Debug\net8.0\NumPrimo.runtimeconfig.json
+C:\Programas\C#\NumPrimo\bin\Debug\net8.0\NumPrimo.dll
+C:\Programas\C#\NumPrimo\bin\Debug\net8.0\NumPrimo.pdb
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.dll
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\refint\NumPrimo.dll
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.pdb
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\NumPrimo.genruntimeconfig.cache
+C:\Programas\C#\NumPrimo\obj\Debug\net8.0\ref\NumPrimo.dll

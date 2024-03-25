@@ -1,0 +1,14 @@
+C:\Programas\C#\RandomNum\bin\Debug\net8.0\RandomNum.exe
+C:\Programas\C#\RandomNum\bin\Debug\net8.0\RandomNum.deps.json
+C:\Programas\C#\RandomNum\bin\Debug\net8.0\RandomNum.runtimeconfig.json
+C:\Programas\C#\RandomNum\bin\Debug\net8.0\RandomNum.dll
+C:\Programas\C#\RandomNum\bin\Debug\net8.0\RandomNum.pdb
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.AssemblyInfoInputs.cache
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.AssemblyInfo.cs
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.csproj.CoreCompileInputs.cache
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.dll
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\refint\RandomNum.dll
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.pdb
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\RandomNum.genruntimeconfig.cache
+C:\Programas\C#\RandomNum\obj\Debug\net8.0\ref\RandomNum.dll

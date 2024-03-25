@@ -1,0 +1,14 @@
+C:\Programas\C#\CalcSimples\bin\Debug\net8.0\CalcSimples.exe
+C:\Programas\C#\CalcSimples\bin\Debug\net8.0\CalcSimples.deps.json
+C:\Programas\C#\CalcSimples\bin\Debug\net8.0\CalcSimples.runtimeconfig.json
+C:\Programas\C#\CalcSimples\bin\Debug\net8.0\CalcSimples.dll
+C:\Programas\C#\CalcSimples\bin\Debug\net8.0\CalcSimples.pdb
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.AssemblyInfoInputs.cache
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.AssemblyInfo.cs
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.csproj.CoreCompileInputs.cache
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.dll
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\refint\CalcSimples.dll
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.pdb
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\CalcSimples.genruntimeconfig.cache
+C:\Programas\C#\CalcSimples\obj\Debug\net8.0\ref\CalcSimples.dll
